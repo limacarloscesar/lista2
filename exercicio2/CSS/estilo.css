@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif ;
+
+}
+
+
+#cabecalho {
+	padding: 30px;
+	background-color: #a1d5a1;
+	text-align: center;
+}
+
+#home {
+	line-height: 1.5;
+	font-size: 20px;
+	
+}
+
+#menu {
+	background-color: #eee;
+	text-align: center;
+	margin-right: 20px;
+	font-size: 20px;
+	width: 20%;
+	height: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+
+
+}
+
+#titulo2 {
+	padding-top: 10px;
+	text-align: center;
+}
+
+#contato {
+	padding-top: 10px;
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+#about {
+	padding-top: 10px;
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+
+#rodape {
+	line-height: 1.5;
+	padding: 30px;
+	background-color: #a1d5a1;
+	text-align: center;
+	clear: both;
+}
